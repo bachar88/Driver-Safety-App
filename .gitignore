@@ -1,0 +1,106 @@
+############################
+# Node / React
+############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.cache/
+.next/
+out/
+temp/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# React Native (if mobile included)
+.android/
+.ios/
+expo-debug.log
+.expo/
+*.keystore
+
+############################
+# Python / AI Models
+############################
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python build artifacts
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# PyTorch / TensorFlow model files
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+############################
+# IDE / Editor files
+############################
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+############################
+# OS files
+############################
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+############################
+# Logs / temp
+############################
+*.log
+logs/
+*.tmp
+*.temp
+temp/
+
+############################
+# Others
+############################
+# Coverage
+coverage/
+coverage-final.json
+.nyc_output/
+
+# Lock files (optional depending on your workflow)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
