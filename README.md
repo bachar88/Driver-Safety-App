@@ -1,4 +1,4 @@
-# Driver Safety App
+# SafeRoad
 
 An AI-powered solution designed to improve road safety by guiding drivers through safer routes, assisting them in real time using computer vision, and rewarding responsible behavior.
 
